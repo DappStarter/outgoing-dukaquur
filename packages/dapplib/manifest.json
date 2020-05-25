@@ -1,0 +1,14 @@
+{
+    "name": "test",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking": false,
+        "/category/access_control/contract_runstate": false,
+        "/category/access_control/administrator_role": false,
+        "/category/access_control/contract_access": false,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "multiple"
+    }
+}
